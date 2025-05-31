@@ -4,8 +4,8 @@ import { Section } from '@/layout/Section';
 
 const Sponsors = () => (
   <Section
-    title="Sponsors"
-    description="Our sponsors' exceptional support has made this project possible."
+    title="Nuestra historia, nuestro orgullo"
+    description="Desde nuetras raices indígenas hasta las celebraciones actuales, Tepaxapa tiene una historia viva que merece ser contada"
   >
     <table className="mx-auto border-collapse">
       <tbody>
