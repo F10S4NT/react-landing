@@ -12,12 +12,7 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            GitHub
-          </Link>
-        </li>
-        <li>
-          <Link href="/">Sign in</Link>
+          <Link href="/">Iniciar Sesion</Link>
         </li>
       </NavbarTwoColumns>
     </Section>
@@ -33,7 +28,7 @@ const Hero = () => (
         description="Somos una comunidad orgullosa de sus raices, sus tradiciones y su gente. En este blog
         compartiremos historias, fotos y momentos que nos unen como pueblo."
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="/">
             <Button xl>Explora el blog</Button>
           </Link>
         }

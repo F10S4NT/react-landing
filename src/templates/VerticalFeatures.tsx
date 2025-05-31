@@ -3,27 +3,21 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Your title here"
-    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
+    title="🌱 Naturaleza y tradiciones"
+    description="Compartimos los paisajes, cultivos, animales y costumbres que nos conectan con los mas profundo de nuestra identidad"
   >
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="🍽️ Sabores que cuentan historias"
+      description="Aprende a preparar platillos tipicos. Comida con historia, amor y sazon local"
       image="/assets/images/feature.svg"
-      imageAlt="First feature alt text"
+      imageAlt="comidas tipicas"
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="🎉 Eventos y comunidad"
+      description="Siempre unidos. Desde fiestas hasta convivencias, aqui encontraras las actividades que nos mantienen unidos como pueblo"
       image="/assets/images/feature2.svg"
-      imageAlt="Second feature alt text"
+      imageAlt="eventos"
       reverse
-    />
-    <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
-      image="/assets/images/feature3.svg"
-      imageAlt="Third feature alt text"
     />
   </Section>
 );
