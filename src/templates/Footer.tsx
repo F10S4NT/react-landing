@@ -48,8 +48,8 @@ const Footer = () => (
           <Link href="/">Documentos</Link>
         </li>
         <li>
-          <Link href="https://github.com/F10S4NT">
-            GitHub2
+          <Link href="/">
+            Compartir
           </Link>
         </li>
       </CenteredFooter>

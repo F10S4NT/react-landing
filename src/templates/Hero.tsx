@@ -28,7 +28,7 @@ const Hero = () => (
         description="Somos una comunidad orgullosa de sus raices, sus tradiciones y su gente. En este blog
         compartiremos historias, fotos y momentos que nos unen como pueblo."
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="/">
             <Button xl>Explora el blog</Button>
           </Link>
         }
