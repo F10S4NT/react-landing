@@ -16,26 +16,26 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          100: '#E6F6FE',
-          200: '#C0EAFC',
-          300: '#9ADDFB',
-          400: '#4FC3F7',
-          500: '#03A9F4',
-          600: '#0398DC',
-          700: '#026592',
-          800: '#014C6E',
-          900: '#013349',
+          100: '#E6A857', // Ocre muy claro
+          200: '#DDA339', // Ocre claro
+          300: '#CC7722', // Ocre medio
+          400: '#B5651D', // Ocre intenso
+          500: '#8B4513', // Ocre oscuro
+          600: '#7A3B10', // Ocre profundo
+          700: '#6F3E11', // Ocre más oscuro
+          800: '#5A2F0D', // Ocre intenso
+          900: '#441F08', // Ocre extra oscuro
         },
         gray: {
-          100: '#f7fafc',
-          200: '#edf2f7',
-          300: '#e2e8f0',
-          400: '#cbd5e0',
-          500: '#a0aec0',
-          600: '#718096',
-          700: '#4a5568',
-          800: '#2d3748',
-          900: '#1a202c',
+          100: '#FAF3E0', // Beige muy claro
+          200: '#F5F5DC', // Beige claro
+          300: '#EDE4C2', // Beige medio
+          400: '#D2C29D', // Beige intenso
+          500: '#B5A182', // Beige oscuro
+          600: '#9F8C6F', // Beige profundo
+          700: '#8C7A5D', // Beige más oscuro
+          800: '#7A6950', // Beige intenso
+          900: '#5C4D3B', // Beige extra oscuro
         },
       },
       lineHeight: {
