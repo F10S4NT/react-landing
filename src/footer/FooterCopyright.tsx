@@ -2,8 +2,12 @@ import { AppConfig } from '../utils/AppConfig';
 
 const FooterCopyright = () => (
   <div className="footer-copyright">
+<<<<<<< HEAD
     © Copyright {new Date().getFullYear()} {AppConfig.title}. Mademwith love ❤️
     by
+=======
+    © Copyright {new Date().getFullYear()} {AppConfig.title}. Made with love ❤️ by{' '}
+>>>>>>> 8e703826214ed8f36df9093c5e6f63d6482b025f
     <a href="https://www.facebook.com/Tepaxapa">Gustavo Flores</a>.
     {/*
      * PLEASE READ THIS SECTION
