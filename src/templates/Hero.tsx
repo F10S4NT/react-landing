@@ -26,10 +26,10 @@ const Hero = () => (
           </>
         }
         description="Somos una comunidad orgullosa de sus raices, sus tradiciones y su gente. En este blog
-        compartiremos historias, fotos y momentos que nos unen como pueblo."
+        compartiremos historias, fotos y momentos que nos unen como pueblo. de momento esta es una pagina temporal"
         button={
           <Link href="/">
-            <Button xl>Explora el blog</Button>
+            <Button xl>Explorar</Button>
           </Link>
         }
       />
