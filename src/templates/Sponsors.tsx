@@ -1,5 +1,3 @@
-
-
 import { Section } from '@/layout/Section';
 
 const Sponsors = () => (
