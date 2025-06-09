@@ -8,7 +8,7 @@ const Banner = () => (
   <Section>
     <CTABanner
       title="Frase emotiva"
-      subtitle={<q>Tepaxapa no se olvida, se lleva en el corazón.</q>}
+      subtitle={"Tepaxapa no se olvida, se lleva en el corazón."}
       button={
         <Link href="/">
           <Button>Publicar historia</Button>
