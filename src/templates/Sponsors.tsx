@@ -1,5 +1,3 @@
-import Image from 'next/image';
-
 import { Section } from '@/layout/Section';
 
 const Sponsors = () => (
@@ -7,7 +5,7 @@ const Sponsors = () => (
     title="Nuestra historia, nuestro orgullo"
     description="Desde nuetras raices indígenas hasta las celebraciones actuales, Tepaxapa tiene una historia viva que merece ser contada"
   >
-   
+    ´.´
   </Section>
 );
 
