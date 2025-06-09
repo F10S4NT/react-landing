@@ -42,11 +42,6 @@ const Footer = () => (
         <li>
           <Link href="/">Documentos</Link>
         </li>
-        <li>
-          <Link href="/">
-            Compartir
-          </Link>
-        </li>
       </CenteredFooter>
     </Section>
   </Background>
